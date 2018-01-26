@@ -1,0 +1,17 @@
+body{
+background-color: rgba(119, 118, 124, 0.91);
+}
+.newspaper{
+    display: flex;
+    flex-direction: column;
+}
+
+.topStory {
+    text-align: center;
+    font-size: 30px;
+    flex: 1;
+}
+
+.story{
+    flex: 2
+}
